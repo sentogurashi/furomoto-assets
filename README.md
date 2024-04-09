@@ -1,1 +1,1 @@
-# furomoto-image
+# furomoto-assets
